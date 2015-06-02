@@ -1,0 +1,8 @@
+
+/**
+ * @constructor
+ */
+function CCustomScreen()
+{
+	
+}
